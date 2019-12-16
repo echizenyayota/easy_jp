@@ -10,7 +10,7 @@ A: Welcome to the very first televised edition of Easy Japanese.Each time we'll 
 H: Hello, I’m Haru, the ownner of Haru-san House where Tam’s friends live.
 A: Haru-san, this is my first time host the program with a robot.This should be interesting.
 H: I think so,too
-A: Now onto the lesson.Today we'll learn how to ask about locations, Tam said “Haru-san House wa doko desu ka”.
+A: Now let's go on to the lesson.Today we'll learn how to ask about locations, Tam said “Haru-san House wa doko desu ka”.
 A: If you want to know where a place or a objectives is, you simply put “wa doko desu ka” after its name.
 
 ## B.from 2:02 to 2:20
